@@ -1,0 +1,9 @@
+Package: io.c0ldra1n.casualalarm
+Name: CasualAlarm
+Depends: mobilesubstrate
+Version: 0.0.7
+Architecture: iphoneos-arm
+Description: Casually play a random song for your alarm!
+Maintainer: c0ldra1n
+Author: c0ldra1n
+Section: Tweaks
